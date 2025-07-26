@@ -79,4 +79,4 @@ Las contribuciones son bienvenidas. Si deseas mejorar este cuaderno, puedes hace
 
 ## 📄 Licencia
 
-[MIT]
+[MIT](https://github.com/ggsgranados/TelecomX-LATAM-Parte-2/blob/main/LICENSE)
